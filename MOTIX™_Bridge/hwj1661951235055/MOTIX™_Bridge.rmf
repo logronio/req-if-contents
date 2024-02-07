@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<configuration:ProrToolExtension xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0">
+  <specViewConfigurations>
+    <specification href="MOTIX™_Bridge.reqif#_specificationDocument"/>
+    <columns label="ReqIF.ForeignID" width="100"/>
+    <columns label="IFX.Version" width="100"/>
+    <columns label="ReqIF-WF.Type" width="100"/>
+    <columns label="ReqIF.ChapterName" width="298"/>
+    <columns label="ReqIF.Text" width="531"/>
+    <leftHeaderColumn label="Lead Header Column" width="30"/>
+  </specViewConfigurations>
+  <generalConfiguration>
+    <labelConfiguration>
+      <defaultLabel>ReqIF.ChapterNumber</defaultLabel>
+      <defaultLabel>ReqIF.ChapterName</defaultLabel>
+      <defaultLabel>ReqIF.Name</defaultLabel>
+      <defaultLabel>ReqIF.Text</defaultLabel>
+      <defaultLabel>ID</defaultLabel>
+      <defaultLabel>Name</defaultLabel>
+      <defaultLabel>Description</defaultLabel>
+    </labelConfiguration>
+  </generalConfiguration>
+</configuration:ProrToolExtension>
